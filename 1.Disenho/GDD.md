@@ -69,5 +69,8 @@ Caracterización del mundo/entorno en el que se desarrolla el videojuego (*World
   - Diseño de personaje y enemigos en PixelAdventure 1 y fondos y elementos en BayatGames
   - **Escenas**
   - Escena de inicio, seleccion de niveles y niveles
+- **Scripts:**
+  - Scripts del movimiento del personaje, la puntuacion, los enemigos, etc.
 - **Otros elementos gráficos:**
   - Fondos, interfaz, animaciones, etc.
+
